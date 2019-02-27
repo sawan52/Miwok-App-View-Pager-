@@ -1,3 +1,7 @@
+Note: This project is not completely made by me, I had learned MultiScreen- Android Basics from Udacity, But using this MultiScreen Application knowledge i have made an application called Tour Guide, you can see it also on my github repo.
+Thank You.
+
+
 Miwok App
 ===================================
 
